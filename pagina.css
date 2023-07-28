@@ -1,0 +1,233 @@
+/* Menu dos sites */
+
+*{
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav{
+	background-color: rgb(37, 37, 39);
+}
+
+nav ul{
+	max-width: fit-content;
+	list-style: none;
+	padding: 0;
+	background-color: rgb(37, 37, 39);
+
+}
+
+nav ul li{
+	display: inline;
+	padding: 30px;
+}
+
+
+nav ul li a{
+	color: #fff;
+	padding: 19px;
+	text-decoration: none;
+	display: inline-block;
+	transition: backgoud .4s;
+}
+
+nav ul li a:hover {
+	background-color: rgb(24, 139, 233);
+}
+
+/* background da paginas */
+
+#fundo {
+ 	background-image: url('file:///C:/Users/adriel.victor/Desktop/TESTES/Pagina/img/1.png');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+
+
+/* table da página index */
+
+*{
+	font-family: system-ui;
+}
+
+#back{
+	background-color: rgb(235, 235, 235);
+}
+
+table{
+	
+ 	border: 2px;
+}
+
+tbody tr {
+ 	height: 50px;
+ 	background-color: #F0FFF0;
+ 	text-align: center;
+}
+
+tbody th{
+	background-color: #0000FF;
+	color: #ffffff;
+}
+
+/*textos das páginas*/
+
+p{
+	color: #ffffff;
+	text-align: center;
+	line-height: 70px;
+	font-size: 250%;
+	color: #ffffff;
+    	text-shadow: 
+            -2px -2px 0px black, 
+            -2px 2px 0px black,      
+            2px -2px 3px black,    
+            2px 0px 3px black;
+}
+
+p a{
+	color: #fff;
+	text-decoration: none;	
+}
+
+/* foto de perfil */
+
+#img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 2px solid white;
+	display: flex;
+}
+
+.teste{
+	display: flex;
+	align-items: center;
+}
+
+
+/* Como jogar */
+
+#fe{
+	width: 10%;
+	display: flex;
+	transform: rotate(0deg);
+	transition-duration: 0.5s;
+}
+
+
+#fe:hover{
+	transform: rotate(-45deg);
+}
+
+
+#fd{
+	width: 10%;
+	display: flex;
+	transform: rotate(0deg);
+	transition-duration: 0.5s;
+}
+
+
+#fd:hover{
+	transform: rotate(45deg);
+}
+
+
+#seta{
+	width: 10%;
+	display: flex;
+	transform: translateY(0px);
+	transition-duration: 2s;
+}
+
+#seta:hover{
+	transform: translateY(-100px);
+}
+
+
+#bola{
+	width: 5%;
+	display: flex;
+	transform: translateY(0px);
+	transition-duration: 1s;
+} 
+
+
+#bola:hover{
+	transform: translateY(-200px);
+}
+
+
+
+/* Rodapé */
+
+#art_final{
+	background-color: #363636;
+	color: white;
+	display: flex;
+	align-items: center;
+	position: fixed;
+	max-width: 100%;
+	min-width: 100%;
+	bottom: 0;
+}
+
+#art_rod{
+
+	width: 25%;
+	align-items: center;
+}
+
+#img_rod{
+	width: inherit;
+}
+
+
+#gif{
+	text-align: center;
+	font-size: 250%;
+}
+
+#tes{
+	font-size: 180%;
+	color: #ffffff;
+    	text-shadow: 
+            -2px -2px 0px black, 
+            -2px 2px 0px black,      
+            2px -2px 3px black,    
+            2px 0px 3px black;
+
+}
+
+
+h3{
+	color: #fff;
+	padding: px;
+	text-decoration: none;
+	display: inline-block;
+	transition: backgoud .4s;
+}
+
+h3:hover {
+	background-color: rgb(24, 139, 233);
+}
+
+#cem{
+	position: fixed;
+	max-width: 100%;
+	min-width: 100%;
+	background-color: #363636;
+	color: white;
+	display: flex;
+	align-items: center;
+	position: fixed;
+	max-width: 100%;
+	min-width: 100%;
+	bottom: 0;
+	width: 25%;
+	align-items: center;
+	width: inherit;
+}
