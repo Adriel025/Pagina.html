@@ -1,8 +1,9 @@
 # Páginas do jogo para visualização.
 
 Link para jogo:
-<a href = "[../Pagina/index.html"](https://github.com/Adriel025/Jogo.exe)></a>
-
+<br>
+https://codeload.github.com/Adriel025/Jogo.exe/zip/refs/heads/main?token=A2PTUPGQY554ECAOT42XE6LEYQLP4
+<br>
 ![index](https://github.com/Adriel025/Pagina.html/assets/111098428/457408e1-5d33-4b7d-8069-09c2728870b9)
 <br>
 ![ComoJogar](https://github.com/Adriel025/Pagina.html/assets/111098428/c30fdfae-5582-43f5-bd5f-b9c0da9cf046)
