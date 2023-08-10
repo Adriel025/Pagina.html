@@ -39,7 +39,7 @@ nav ul li a:hover {
 /* background da paginas */
 
 #fundo {
- 	background-image: url('file:///C:/Users/adriel.victor/Desktop/TESTES/Pagina/img/1.png');
+ 	background-image: url('img/1.png');
   	background-repeat: no-repeat;
   	background-attachment: fixed;  
   	background-size: cover;
